@@ -17,81 +17,79 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
-**Gammapy in depth** : the data analysis workflow, the GADF data format, makers and estimators, models and catalogs, 
+**Gammapy in Depth** : the data analysis workflow, the GADF data format, makers and estimators, models and catalogs, 
 multi-processing (multi-core and multi-CPU), etc.
 
-Made by xxx (Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris)). Location : room CIAS, Observatoire de Meudon
+Made by Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 - Open exercises
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
-**IRFs and Data reduction** : observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
+**IRFs and Data Reduction** : observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
 
-Made by xxx (laura and quentin). Location : room CIAS, Observatoire de Meudon
+Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
-*** IACTs data reduction (H.E.S.S. example)
+### IACTs data reduction (H.E.S.S. example)
 - Notebooks
 
-*** Fermi-LAT dataset creation and analysis setup
+### Fermi-LAT dataset creation and analysis setup
 - Notebooks
 
 
 <a name="joint"></a>
 ## Session of Wednesday, 14h00/15h45
-**Joint analysis - Source detection and multi-instrument systematics**
+**Joint Analysis : source detection and multi-instrument systematics**
 
-Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-*** Multi-instrument joint crab analysis, source detection using pattern recognition techniques, multi-instrument systematics
+### Multi-instrument joint crab analysis, source detection using pattern recognition techniques, multi-instrument systematics
 - Open exercises
 
-*** Alternative hypotheses testing, model selection
+### Alternative hypotheses testing, model selection
 - Open exercises
 
 
 <a name="diffuse"></a>
 ## Session of Wednesday, 16h15/18h
 Work on your project or:
+- sdf
+- or *Diffuse emission and source population models*, prepared by Quentin Remy (IRAP, Toulouse).
+  - Notebooks
 
-**Diffuse emission and source population models**
+Location : room CIAS, Observatoire de Meudon
 
-Made by xxx (Quentin). Location : room CIAS, Observatoire de Meudon
-
-- Notebooks
 
 <a name="timing"></a>
 ## Session of Thursday, 9h30/10h45
-**Timing analysis** : handling light curves
+**Timing Analysis** : handling light curves
 
-Made by Jean-Philippe Lenain. Location : room CIAS, Observatoire de Meudon
+Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
-**Nested sampling** : joint crab analysis, nested sampling
+**Nested Sampling** : joint crab analysis, nested sampling
 
-Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
+Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 
 <a name="gamera"></a>
 ## Session of Thursday, 14h00/15h45
-**GAMERA** : GAMERA
+**GAMERA** : adjust data with a physically-motivated modeling library
 
-Made by xxx (Laura). Location : room CIAS, Observatoire de Meudon
+Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 
 <a name="ml"></a>
 ## Session of Thursday, 16h15/18h
-**Machine-learning representation of physical models** : Custom models, ML surrogate model training
-
-Made by Quentin (Quentin, Lea?). Location : room CIAS, Observatoire de Meudon
-
-- Open exercises
+- df
+- or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
+   - Open exercises
 
