@@ -46,7 +46,7 @@ Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meu
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
 - or *Timing Analysis* (creating a light curve for a time variable source), prepared by Jean-Philippe Lenain (LPNHE, Paris).
-  - Notebook : [directory]('4. Timing analysis')
+  - Notebook : [directory](./4.%20Timing%20analysis)
 
 Location : room CIAS, Observatoire de Meudon
 
