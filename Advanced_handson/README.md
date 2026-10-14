@@ -7,12 +7,12 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 ## Table of contents
 1. [Gammapy in depth](#intro)
-2. [IRFs and Data reduction](#data)
-3. [Joint analysis - Source detection and multi-instrument systematics](#joint)
-4. [Project or Diffuse emisison and source population models](#project-1)
+2. [Joint analyses](#joint)
+3. [Systematic uncertainties](#sys)
+4. [Project or source detection](#project-1)
 5. [Timing analysis](#timing)
-6. [GAMERA](#gamera)
-7. [Nested sampling](#nested)
+6. [Model selection and Bayesian analyses](#nested)
+7. [GAMERA](#gamera)
 8. [Project or Machine-learning representation of physical models](#project-2)
 
 <a name="intro"></a>
@@ -25,29 +25,49 @@ Made by Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudo
 - Notebooks : xxx
 - Open exercises : xxx
 
-<a name="data"></a>
+<a name="joint"></a>
 ## Session of Wednesday, 11h15/12h30
-**IRFs and Data Reduction** : observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
-
+**Joint analyses**
 Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
-### IACTs data reduction (H.E.S.S. example)
+### Data Reduction
+observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
+**IACTs data reduction (H.E.S.S. example)**
+- Notebooks : xxx
+**Fermi-LAT dataset creation and analysis setup**
 - Notebooks : xxx
 
-### Fermi-LAT dataset creation and analysis setup
+### Joint analysis
+TS and significance maps, fitting
 - Notebooks : xxx
 
-
-<a name="joint"></a>
+<a name="sys"></a>
 ## Session of Wednesday, 14h00/15h45
-**Joint Analysis : source detection and multi-instrument systematics**
+**Systematic uncertainties**
 
-Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
-### Multi-instrument joint crab analysis, source detection using pattern recognition techniques, multi-instrument systematics
+### Systematics uncertainties estimates from Jackniffe tests (data perturbations)
+**Observation leave-one-out**
+ How sensitive is the fit to the removal of a randomly selected observation?
+ Probes the stability of the fit with respect to observation-to-observation variability, including potential unknown systematic effects.
 - Notebook : xxx
 
-### Alternative hypotheses testing, model selection
+**Random FoV masking**
+ How sensitive is the fit to the removal of a randomly selected subset of the field of view?
+ Probes the stability of the fit with respect to spatially localized systematic effects, such as diffuse-model mismatches, acceptance uncertainties, or residual background structures.
+ - Notebook : xxx
+
+### Systematic uncertainty propagation through model variations (model perturbations)
+**Multi-instrument energy-scale systematic**
+How sensitive is the fit to uncertainties in the relative energy calibration of the instruments?
+Probes the stability of the fit with respect to inter-instrument energy-scale systematic effects, such as calibration biases, atmospheric uncertainties, and instrumental response mismatches.
+(Joint Crab analysis)
+- Notebook : xxx
+
+**Alternative diffuse and IRF models**
+ How sensitive are the source parameters to uncertainties in the diffuse emission, instrument response, and other model components?
+ Propagates model-related systematic uncertainties by repeating the fit with alternative diffuse-emission models, or IRFs. 
 - Notebook : xxx
 
 
@@ -56,7 +76,7 @@ Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 Project Session : multiple options, each to be selected individually and supervised by the Gammapy experts
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
-- or *Diffuse emission and source population models*, prepared by Quentin Remy (IRAP, Toulouse).
+- or *Source detection using pattern recognition techniques*, prepared by Quentin Remy (IRAP, Toulouse).
   - Notebook : xxx 
 
 Location : room CIAS, Observatoire de Meudon
@@ -68,14 +88,16 @@ Location : room CIAS, Observatoire de Meudon
 
 Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks : [directory](./5.%20Timing%20analysis)
+- Notebooks : xxx
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
-**Nested Sampling** : joint crab analysis, nested sampling
-
+**Model selection and bayesian analyses** :
 Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
+### Nested sampling utilities
+- Notebook : xxx
+### Alternative hypotheses testing, bayesian model selection
 - Notebooks : xxx
 
 
