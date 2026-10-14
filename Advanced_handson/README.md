@@ -9,11 +9,11 @@ The used Gammapy version will be the **v2.1**. See the installation page
 1. [Gammapy in depth](#intro)
 2. [IRFs and Data reduction](#data)
 3. [Joint analysis - Source detection and multi-instrument systematics](#joint)
-4. [Project or Diffuse emisison and source population models](#diffuse)
+4. [Project or Diffuse emisison and source population models](#project-1)
 5. [Timing analysis](#timing)
 6. [GAMERA](#gamera)
 7. [Nested sampling](#nested)
-8. [Project or Machine-learning representation of physical models](#ml)
+8. [Project or Machine-learning representation of physical models](#project-2)
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
@@ -22,8 +22,8 @@ multi-processing (multi-core and multi-CPU), etc.
 
 Made by Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
-- Open exercises
+- Notebooks : xxx
+- Open exercises : xxx
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
@@ -32,10 +32,10 @@ Made by Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudo
 Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
 ### IACTs data reduction (H.E.S.S. example)
-- Notebooks
+- Notebooks : xxx
 
 ### Fermi-LAT dataset creation and analysis setup
-- Notebooks
+- Notebooks : xxx
 
 
 <a name="joint"></a>
@@ -45,18 +45,19 @@ Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meu
 Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 ### Multi-instrument joint crab analysis, source detection using pattern recognition techniques, multi-instrument systematics
-- Open exercises
+- Notebook : xxx
 
 ### Alternative hypotheses testing, model selection
-- Open exercises
+- Notebook : xxx
 
 
-<a name="diffuse"></a>
+<a name="project-1"></a>
 ## Session of Wednesday, 16h15/18h
-Work on your project or:
-- sdf
+Project Session : multiple options, each to be selected individually and supervised by the Gammapy experts
+- Individual follow-up study of the tutorials covered this morning,
+- Personal project,
 - or *Diffuse emission and source population models*, prepared by Quentin Remy (IRAP, Toulouse).
-  - Notebooks
+  - Notebook : xxx 
 
 Location : room CIAS, Observatoire de Meudon
 
@@ -67,7 +68,7 @@ Location : room CIAS, Observatoire de Meudon
 
 Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebooks : xxx
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
@@ -75,7 +76,7 @@ Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire 
 
 Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebooks : xxx
 
 
 <a name="gamera"></a>
@@ -84,12 +85,13 @@ Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meu
 
 Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebooks : xxx
 
 
-<a name="ml"></a>
+<a name="project-2"></a>
 ## Session of Thursday, 16h15/18h
-- df
+Project Session : multiple options, each to be selected individually and supervised by the Gammapy experts
+- Individual follow-up study of the tutorials covered this morning,
+- Personal project,
 - or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
-   - Open exercises
-
+  - Notebook : xxx 
