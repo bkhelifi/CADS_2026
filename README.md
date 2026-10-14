@@ -5,6 +5,9 @@ Cherenkov Astronomy Data School, Paris, 2026
 
 **Disclaimer** : still under construction!
 
+[Question document (to be removed later)](https://hebdo.framapad.org/p/CADS_2026_Questions)  -> To be send this week to the participants
+
+
 ## Table of contents
 
 1. [Overview](#scope)
