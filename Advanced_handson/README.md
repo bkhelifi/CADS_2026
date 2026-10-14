@@ -32,9 +32,10 @@ Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meu
 
 ### Data Reduction
 observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
-**IACTs data reduction (H.E.S.S. example)**
+
+***IACTs data reduction (H.E.S.S. example)***
 - Notebooks : xxx
-**Fermi-LAT dataset creation and analysis setup**
+***Fermi-LAT dataset creation and analysis setup***
 - Notebooks : xxx
 
 ### Joint analysis
@@ -48,25 +49,28 @@ TS and significance maps, fitting
 Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
 ### Systematics uncertainties estimates from Jackniffe tests (data perturbations)
-**Observation leave-one-out**
+***Observation leave-one-out:***
  How sensitive is the fit to the removal of a randomly selected observation?
+ 
  Probes the stability of the fit with respect to observation-to-observation variability, including potential unknown systematic effects.
 - Notebook : xxx
 
-**Random FoV masking**
+***Random FoV masking:***
  How sensitive is the fit to the removal of a randomly selected subset of the field of view?
+ 
  Probes the stability of the fit with respect to spatially localized systematic effects, such as diffuse-model mismatches, acceptance uncertainties, or residual background structures.
  - Notebook : xxx
 
 ### Systematic uncertainty propagation through model variations (model perturbations)
-**Multi-instrument energy-scale systematic**
+**Multi-instrument energy-scale systematic:**
 How sensitive is the fit to uncertainties in the relative energy calibration of the instruments?
+
 Probes the stability of the fit with respect to inter-instrument energy-scale systematic effects, such as calibration biases, atmospheric uncertainties, and instrumental response mismatches.
-(Joint Crab analysis)
 - Notebook : xxx
 
-**Alternative diffuse and IRF models**
+**Alternative diffuse and IRF models:**
  How sensitive are the source parameters to uncertainties in the diffuse emission, instrument response, and other model components?
+ 
  Propagates model-related systematic uncertainties by repeating the fit with alternative diffuse-emission models, or IRFs. 
 - Notebook : xxx
 
