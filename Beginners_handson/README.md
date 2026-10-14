@@ -29,7 +29,7 @@ Prepared by xx (atreyee). Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (Tomas Bylund). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -48,7 +48,7 @@ Option: either work on your project or:
 
 **Timing analysis** : creating a light curve for a time variable source
 
-Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
+Prepared by Jean-Philippe Lenain. Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
