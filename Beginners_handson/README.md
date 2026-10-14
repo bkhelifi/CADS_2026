@@ -17,45 +17,44 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
-**Introduction to the Gammapy library** and the data analysis workflow.
+**Introduction to the Gammapy Library** and the data analysis workflow.
 
-Prepared by xx (atreyee). Location : room CIAS, Observatoire de Meudon
+Prepared by Atreyee Sinha (TIFR, Mumbai). Location : room CIAS, Observatoire de Meudon
 
 - Link to the presentation
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
-**Data structure and IRFs** : datastore, observation handling, IRFs
+**Data Structure and IRFs** : datastore, observation handling, IRFs
 
-Prepared by xxx (Tomas Bylund). Location : room CIAS, Observatoire de Meudon
+Prepared by Tomas Bylund (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
-**Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
+**Spectral Analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
-Prepared by xx (lea). Location : room CIAS, Observatoire de Meudon
+Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
-Option: either work on your project or:
+**Project Session** : multiple options, each to be selected individually and supervised by the Gammapy experts
+- Individual follow-up study of the tutorials covered this morning,
+- Personal project,
+- or *Timing Analysis* (creating a light curve for a time variable source), prepared by Jean-Philippe Lenain (LPNHE, Paris).
 
-**Timing analysis** : creating a light curve for a time variable source
-
-Prepared by Jean-Philippe Lenain. Location : room CIAS, Observatoire de Meudon
-
-- Notebooks
+Location : room CIAS, Observatoire de Meudon
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
-**Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
+**Simple 3D Source Analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Prepared by xxx (Marie). Location : room CIAS, Observatoire de Meudon
+Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
   
@@ -64,25 +63,26 @@ Prepared by xxx (Marie). Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Prepared by xxx (Laura). Location : room CIAS, Observatoire de Meudon
+Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
-**Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
+**Multi-instrument Joint Analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Prepared by xxx (Lea). Location : room CIAS, Observatoire de Meudon
+Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
-Option: either work on your project or:
+**Project Session** : multiple options, each to be selected individually and supervised by the Gammapy experts
+- Individual follow-up study of the tutorials covered this morning,
+- Personal project,
+- or *Systematic Uncertainties* (user defined models, priors and nuisance parameters), prepared by Marie-Sophie Carrasco and Bruno Khélifi (APC, Paris)
 
-**Systematic uncertainties** : user defined models, priors and nuisance parameters.
-
-Prepared by xx (Bruno). Location : room CIAS, Observatoire de Meudon
+Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
