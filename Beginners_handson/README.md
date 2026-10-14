@@ -5,8 +5,6 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 **Disclaimer** : still under construction!
 
-[Question document](https://hebdo.framapad.org/p/CADS_2026_Questions)  -> Do we do again such pool?
-
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
 2. [Data structure](#data)
