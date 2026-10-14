@@ -55,7 +55,7 @@ Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 16h15/18h
 Work on your project or:
 
-**Diffuse emisison and source population models**
+**Diffuse emission and source population models**
 
 Made by xxx (Quentin). Location : room CIAS, Observatoire de Meudon
 
@@ -65,7 +65,7 @@ Made by xxx (Quentin). Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : handling light curves
 
-Made by xxx (JPL). Location : room CIAS, Observatoire de Meudon
+Made by Jean-Philippe Lenain. Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
