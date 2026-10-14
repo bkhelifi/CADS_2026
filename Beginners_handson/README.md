@@ -21,7 +21,7 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 Prepared by Atreyee Sinha (TIFR, Mumbai). Location : room CIAS, Observatoire de Meudon
 
-- Link to the presentation
+- Link to the presentation : xxx
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
@@ -29,7 +29,7 @@ Prepared by Atreyee Sinha (TIFR, Mumbai). Location : room CIAS, Observatoire de 
 
 Prepared by Tomas Bylund (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
@@ -38,7 +38,7 @@ modeling/fitting, confidence calculation, flux points extraction.
 
 Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
@@ -46,6 +46,7 @@ Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meu
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
 - or *Timing Analysis* (creating a light curve for a time variable source), prepared by Jean-Philippe Lenain (LPNHE, Paris).
+  - Notebook : [directory]('4. Timing analysis')
 
 Location : room CIAS, Observatoire de Meudon
 
@@ -56,7 +57,7 @@ exploring fit results, morphology and spectral parameters.
 
 Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
   
 
 <a name="simu"></a>
@@ -65,7 +66,7 @@ Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room CIAS, Observatoi
 
 Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
@@ -74,7 +75,7 @@ Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observa
 
 Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
@@ -85,4 +86,4 @@ Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meu
 
 Location : room CIAS, Observatoire de Meudon
 
-- Notebooks
+- Notebook : xxx
