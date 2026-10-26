@@ -49,7 +49,7 @@ TS and significance maps, fitting
 Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
 ### Systematics uncertainties estimates from Jackniffe tests (data perturbations)
-***Observation leave-one-out:***
+***Observation leave-k-out:***
  How sensitive is the fit to the removal of a randomly selected observation?
  
  Probes the stability of the fit with respect to observation-to-observation variability, including potential unknown systematic effects.
