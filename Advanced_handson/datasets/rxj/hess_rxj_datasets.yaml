@@ -1,0 +1,42 @@
+datasets:
+-   name: obs_20326
+    type: MapDataset
+    filename: obs_20326.fits.gz
+-   name: obs_20327
+    type: MapDataset
+    filename: obs_20327.fits.gz
+-   name: obs_20349
+    type: MapDataset
+    filename: obs_20349.fits.gz
+-   name: obs_20350
+    type: MapDataset
+    filename: obs_20350.fits.gz
+-   name: obs_20396
+    type: MapDataset
+    filename: obs_20396.fits.gz
+-   name: obs_20397
+    type: MapDataset
+    filename: obs_20397.fits.gz
+-   name: obs_20421
+    type: MapDataset
+    filename: obs_20421.fits.gz
+-   name: obs_20422
+    type: MapDataset
+    filename: obs_20422.fits.gz
+-   name: obs_20517
+    type: MapDataset
+    filename: obs_20517.fits.gz
+-   name: obs_20518
+    type: MapDataset
+    filename: obs_20518.fits.gz
+-   name: obs_20519
+    type: MapDataset
+    filename: obs_20519.fits.gz
+-   name: obs_20521
+    type: MapDataset
+    filename: obs_20521.fits.gz
+metadata:
+    creator: Gammapy 2.0
+    date: '2025-11-25T20:35:44.753960'
+    origin: null
+checksum: cf05fda91ce7b63f7099f74e1f2ad1c0
