@@ -76,7 +76,8 @@ Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location :
 How sensitive is the fit to uncertainties in the relative energy calibration of the instruments?
 
 Probes the stability of the fit with respect to inter-instrument energy-scale systematic effects, such as calibration biases, atmospheric uncertainties, and instrumental response mismatches, introducing a nuisance parameter in the fitted models
-- Notebook : xxx
+
+[Link to the notebook](joint_energy_scale_systematics.ipynb)
 
 **Alternative IRF models:**
  How sensitive are the source parameters to uncertainties in the instrument response, and other model components?
