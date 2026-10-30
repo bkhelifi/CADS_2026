@@ -59,7 +59,7 @@ Location : room CIAS, Observatoire de Meudon
 **Simple 3D Source Analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room Denisse, Observatoire de Paris
 
 - Notebook : xxx
   
@@ -68,7 +68,7 @@ Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room CIAS, Observatoi
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
+Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Denisse, Observatoire de Paris
 
 - Notebook : xxx
 
@@ -77,7 +77,7 @@ Prepared by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observa
 **Multi-instrument Joint Analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Lea Heckmann (APC, Paris). Location : room Denisse, Observatoire de Paris
 
 - Notebook : xxx
 
@@ -88,6 +88,6 @@ Prepared by Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meu
 - Personal project,
 - or *Systematic Uncertainties* (user defined models, priors and nuisance parameters), prepared by Marie-Sophie Carrasco and Bruno Khélifi (APC, Paris)
 
-Location : room CIAS, Observatoire de Meudon
+Location : room Denisse, Observatoire de Paris
 
 - Notebook : xxx
