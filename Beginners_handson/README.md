@@ -5,6 +5,10 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 **Disclaimer** : still under construction!
 
+Locations:
+- Wednesday: Salle CIAS, Observatoire de Meudon (OpenStreeMap)
+- Thursday: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
+
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
 2. [Data structure](#data)
