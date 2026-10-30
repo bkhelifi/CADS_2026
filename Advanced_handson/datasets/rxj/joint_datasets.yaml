@@ -14,8 +14,3 @@ datasets:
 -   name: hess_rxj_stacked
     type: MapDataset
     filename: hess_rxj_stacked.fits.gz
-metadata:
-    creator: Gammapy 2.0
-    date: '2025-11-03T12:58:23.833343'
-    origin: null
-checksum: 015d0c46cfe4a960d7811136353598b3
