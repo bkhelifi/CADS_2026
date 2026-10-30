@@ -5,6 +5,10 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 **Disclaimer** : still under construction!
 
+Locations:
+- Wednesday: Salle CIAS, Observatoire de Meudon (OpenStreeMap)
+- Thursday: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
+
 ## Table of contents
 1. [Gammapy in depth](#intro)
 2. [Joint analyses](#joint)
@@ -46,7 +50,6 @@ TS and significance maps, fitting
 <a name="sys"></a>
 ## Session of Wednesday, 14h00/15h45
 **Systematic uncertainties**
-
 Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
 ### Systematics uncertainties estimates from Jackniffe tests (data perturbations)
@@ -75,30 +78,23 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
  Propagates model-related systematic uncertainties by repeating the fit with alternative diffuse-emission models, or IRFs. 
 - Notebook : xxx
 
-
 <a name="project-1"></a>
 ## Session of Wednesday, 16h15/18h
-Project Session : multiple options, each to be selected individually and supervised by the Gammapy experts
+**Project Session** : multiple options, each to be selected individually and supervised by the Gammapy experts. Location : room CIAS, Observatoire de Meudon
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
 - or *Source detection using pattern recognition techniques*, prepared by Quentin Remy (IRAP, Toulouse).
   - Notebook : xxx 
 
-Location : room CIAS, Observatoire de Meudon
-
-
 <a name="timing"></a>
 ## Session of Thursday, 9h30/10h45
-**Timing Analysis** : handling light curves
-
-Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+**Timing Analysis** : handling light curves. Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room Danjon, Observatoire de Paris
 
 - Notebooks : [directory](./5.%20Timing%20analysis)
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
-**Model selection and bayesian analyses** :
-Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
+**Model selection and bayesian analyses** : Made by Quentin Remy (IRAP, Toulouse). Location : room Danjon, Observatoire de Paris
 
 ### Nested sampling utilities
 - Notebook : xxx
@@ -108,17 +104,15 @@ Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meu
 
 <a name="gamera"></a>
 ## Session of Thursday, 14h00/15h45
-**GAMERA** : adjust data with a physically-motivated modeling library
-
-Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room CIAS, Observatoire de Meudon
+**GAMERA** : adjust data with a physically-motivated modeling library. Made by Laura Olivera-Nieto (APIA, Amsterdam). Location : room Danjon, Observatoire de Paris
 
 - Notebooks : xxx
 
-
 <a name="project-2"></a>
 ## Session of Thursday, 16h15/18h
-Project Session : multiple options, each to be selected individually and supervised by the Gammapy experts
+**Project Session** : multiple options, each to be selected individually and supervised by the Gammapy experts. Location: Room Danjon, Observatoire de Paris
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
-- or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). Location : room CIAS, Observatoire de Meudon
-  - Notebook : xxx 
+- or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). 
+
+- Notebook : xxx 
