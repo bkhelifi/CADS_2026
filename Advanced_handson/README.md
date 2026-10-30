@@ -34,14 +34,16 @@ Made by Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudo
 **Joint analyses**
 Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meudon
 
-### Data Reduction
+***Fermi-LAT analysis*** :
+datasets creation, source catalog, diffuse emission
+
+[Link to the notebook](2a_fermi_lat_dataset_creation.ipynb)
+
+***IACTs data reduction (H.E.S.S. example)*** :
 observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
 
-***IACTs data reduction (H.E.S.S. example)***
-- Notebooks : xxx
+[Link to the notebook](2b_hess_data_reduction.ipynb)
 
-***Fermi-LAT dataset creation and analysis setup***
-- Notebooks : xxx
 
 ### Joint analysis
 TS and significance maps, fitting
@@ -57,25 +59,29 @@ Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location :
  How sensitive is the fit to the removal of a randomly selected observation?
  
  Probes the stability of the fit with respect to observation-to-observation variability, including potential unknown systematic effects.
-- Notebook : xxx
+ 
+ [Link to the notebook](jackknife_observations.ipynb.ipynb)
+
 
 ***Random FoV masking:***
  How sensitive is the fit to the removal of a randomly selected subset of the field of view?
  
  Probes the stability of the fit with respect to spatially localized systematic effects, such as diffuse-model mismatches, acceptance uncertainties, or residual background structures.
- - Notebook : xxx
+ 
+ [Link to the notebook](jackknife_pixels.ipynb)
+
 
 ### Systematic uncertainty propagation through model variations (model perturbations)
 **Multi-instrument energy-scale systematic:**
 How sensitive is the fit to uncertainties in the relative energy calibration of the instruments?
 
-Probes the stability of the fit with respect to inter-instrument energy-scale systematic effects, such as calibration biases, atmospheric uncertainties, and instrumental response mismatches.
+Probes the stability of the fit with respect to inter-instrument energy-scale systematic effects, such as calibration biases, atmospheric uncertainties, and instrumental response mismatches, introducing a nuisance parameter in the fitted models
 - Notebook : xxx
 
-**Alternative diffuse and IRF models:**
- How sensitive are the source parameters to uncertainties in the diffuse emission, instrument response, and other model components?
+**Alternative IRF models:**
+ How sensitive are the source parameters to uncertainties in the instrument response, and other model components?
  
- Propagates model-related systematic uncertainties by repeating the fit with alternative diffuse-emission models, or IRFs. 
+ Propagates IRFs-related systematic uncertainties by repeating the fit with alternative IRFs and marginalising over the results. 
 - Notebook : xxx
 
 <a name="project-1"></a>
@@ -90,16 +96,20 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 ## Session of Thursday, 9h30/10h45
 **Timing Analysis** : handling light curves. Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room Danjon, Observatoire de Paris
 
-- Notebooks : [directory](./5.%20Timing%20analysis)
+[Link to the notebook](./5.%20Timing%20analysis)
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
 **Model selection and bayesian analyses** : Made by Quentin Remy (IRAP, Toulouse). Location : room Danjon, Observatoire de Paris
 
 ### Nested sampling utilities
-- Notebook : xxx
+
+[Link to the notebook](nested_sampling.ipynb)
+
+  
 ### Alternative hypotheses testing, bayesian model selection
-- Notebooks : xxx
+
+[Link to the notebook](bayesian_model_selection.ipynb)
 
 
 <a name="gamera"></a>
@@ -115,4 +125,4 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 - Personal project,
 - or *Machine-learning representation of physical models* (Custom models, ML surrogate model training), prepared by Quentin Remy (IRAP, Toulouse) and  Lea Heckmann (APC, Paris). 
 
-- Notebook : xxx 
+[Link to the notebook](NaimaSurrogate.ipynb)
