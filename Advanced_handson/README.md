@@ -6,7 +6,7 @@ The used Gammapy version will be the **v2.1**. See the installation page
 **Disclaimer** : still under construction!
 
 Locations:
-- Wednesday: Salle CIAS, Observatoire de Meudon (OpenStreeMap)
+- Wednesday: Salle CIAS, Observatoire de Meudon ([OpenStreeMap](https://www.openstreetmap.org/note/new?lat=48.805069&lon=2.230761#map=17/48.805092/2.231694&layers=N))
 - Thursday: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
 ## Table of contents
