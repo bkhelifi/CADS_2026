@@ -1,42 +1,42 @@
 datasets:
--   name: obs_20326
+-   name: hess_run20326
     type: MapDataset
-    filename: obs_20326.fits.gz
--   name: obs_20327
+    filename: hess_run20326.fits
+-   name: hess_run20327
     type: MapDataset
-    filename: obs_20327.fits.gz
--   name: obs_20349
+    filename: hess_run20327.fits
+-   name: hess_run20349
     type: MapDataset
-    filename: obs_20349.fits.gz
--   name: obs_20350
+    filename: hess_run20349.fits
+-   name: hess_run20350
     type: MapDataset
-    filename: obs_20350.fits.gz
--   name: obs_20396
+    filename: hess_run20350.fits
+-   name: hess_run20396
     type: MapDataset
-    filename: obs_20396.fits.gz
--   name: obs_20397
+    filename: hess_run20396.fits
+-   name: hess_run20397
     type: MapDataset
-    filename: obs_20397.fits.gz
--   name: obs_20421
+    filename: hess_run20397.fits
+-   name: hess_run20421
     type: MapDataset
-    filename: obs_20421.fits.gz
--   name: obs_20422
+    filename: hess_run20421.fits
+-   name: hess_run20422
     type: MapDataset
-    filename: obs_20422.fits.gz
--   name: obs_20517
+    filename: hess_run20422.fits
+-   name: hess_run20517
     type: MapDataset
-    filename: obs_20517.fits.gz
--   name: obs_20518
+    filename: hess_run20517.fits
+-   name: hess_run20518
     type: MapDataset
-    filename: obs_20518.fits.gz
--   name: obs_20519
+    filename: hess_run20518.fits
+-   name: hess_run20519
     type: MapDataset
-    filename: obs_20519.fits.gz
--   name: obs_20521
+    filename: hess_run20519.fits
+-   name: hess_run20521
     type: MapDataset
-    filename: obs_20521.fits.gz
+    filename: hess_run20521.fits
 metadata:
-    creator: Gammapy 2.0
-    date: '2025-11-25T20:35:44.753960'
+    creator: Gammapy 2.0.dev3532+gd26bfaac6
+    date: '2026-10-30T11:02:24.428776'
     origin: null
-checksum: cf05fda91ce7b63f7099f74e1f2ad1c0
+checksum: 29d4776210e8649528238cfcff435c17
