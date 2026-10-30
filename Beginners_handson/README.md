@@ -23,7 +23,7 @@ Locations:
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy Library** and the data analysis workflow.
 
-Prepared by Atreyee Sinha (TIFR, Mumbai). Location : room CIAS, Observatoire de Meudon
+Prepared by Lea Heckmann (APC, Paris. Location : room CIAS, Observatoire de Meudon
 
 - Link to the presentation : xxx
 
