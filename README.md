@@ -76,7 +76,9 @@ Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
 <a name="hands-on"></a>
 ## 7. Gammapy hands-on sessions
-Location: Salle CIAS, Meudon
+Locations: 
+- Wednesday: Salle CIAS, Observatoire de Meudon ([OpenStreeMap](https://www.openstreetmap.org/note/new?lat=48.805069&lon=2.230761#map=17/48.805092/2.231694&layers=N))
+- Thursday: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
 The hands-on session will be organised for two different groups:
 - the beginner users : [material page](Beginners_handson/README.md)
@@ -90,6 +92,8 @@ The used Gammapy version will be the **v2.1**. See the installation page
 This session is dedicated to free discussions, frequently asked questions, or specific projects. Topics will be collected the Thursday
 
 Put your questions in this pad: https://hebdo.framapad.org/p/CADS_2026_Questions
+
+Location: Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
 <a name="notice"></a>
 ## 9. Legal notice
