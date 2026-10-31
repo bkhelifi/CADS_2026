@@ -37,6 +37,6 @@ datasets:
     filename: hess_run20521.fits
 metadata:
     creator: Gammapy 2.0.dev3532+gd26bfaac6
-    date: '2026-10-30T11:02:24.428776'
+    date: '2026-10-31T11:29:10.212647'
     origin: null
-checksum: 29d4776210e8649528238cfcff435c17
+checksum: 047c3e171c6082b163b4e161bc57dc0e
