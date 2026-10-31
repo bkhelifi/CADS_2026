@@ -250,5 +250,5 @@ components:
 covariance: hgps_rxj_models_covariance.dat
 metadata:
     creator: Gammapy 2.0.dev3532+gd26bfaac6
-    date: '2026-10-29T19:55:11.564007'
+    date: '2026-10-31T10:16:31.803208'
     origin: null

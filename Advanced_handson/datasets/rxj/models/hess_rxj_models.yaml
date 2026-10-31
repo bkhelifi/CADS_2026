@@ -7,17 +7,17 @@ components:
         -   name: tilt
             value: 0.0
         -   name: norm
-            value: 1.2650350702430977
-            error: 0.03879437381546929
+            value: 1.2691353092590478
+            error: 0.03909291695132001
             min: 0.0
             prior:
                 type: GaussianPrior
                 parameters:
                 -   name: mu
-                    value: 1.2638473846191618
+                    value: 1.2679324654710726
                     unit: ''
                 -   name: sigma
-                    value: 0.03880548080548028
+                    value: 0.03910427535094652
                     unit: ''
                 weight: 1
         -   name: reference
@@ -39,6 +39,6 @@ components:
 covariance: hess_rxj_models_covariance.dat
 metadata:
     creator: Gammapy 2.0.dev3532+gd26bfaac6
-    date: '2026-10-30T11:02:24.488201'
+    date: '2026-10-31T11:29:10.232583'
     origin: null
-checksum: c10be790f123be90f2f502696f94feb6
+checksum: 6f85d3ce1c968dbe826eb286bfd6ee9d

@@ -1,13 +1,44 @@
 components:
+-   name: 4FGL J1700.1-4013c
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 9.436467088311208e-20
+            unit: MeV-1 s-1 cm-2
+            error: 3.9893746854987545e-16
+            min: 0.0
+        -   name: reference
+            value: 1900.1495361328125
+            unit: MeV
+        -   name: alpha
+            value: 2.739989757537842
+            frozen: true
+        -   name: beta
+            value: 0.35324910283088684
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 255.02960205078128
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.222900390625
+            unit: deg
+            frozen: true
 -   name: 4FGL J1704.8-4030
     type: SkyModel
     spectral:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 4.720178047236526e-13
+            value: 4.2678584941278787e-13
             unit: MeV-1 s-1 cm-2
-            error: 1.2290571714342308e-13
+            error: 1.1879029453841696e-13
             min: 0.0
         -   name: reference
             value: 2701.404541015625
@@ -36,9 +67,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 3.367320066179492e-18
+            value: 1.4429260572783235e-19
             unit: MeV-1 s-1 cm-2
-            error: 1.7516204261811955e-15
+            error: 2.848733156273953e-16
             min: 0.0
         -   name: reference
             value: 2171.904052734375
@@ -61,15 +92,43 @@ components:
             value: -38.83409881591797
             unit: deg
             frozen: true
+-   name: 4FGL J1706.2-4113c
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.3010215759277344
+            frozen: true
+        -   name: amplitude
+            value: 2.4070291220981665e-14
+            unit: MeV-1 s-1 cm-2
+            error: 1.2617079703091747e-14
+            min: 0.0
+        -   name: reference
+            value: 4936.4814453125
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 256.56439208984375
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.229400634765625
+            unit: deg
+            frozen: true
 -   name: 4FGL J1706.5-4023c
     type: SkyModel
     spectral:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.7060091311669495e-13
+            value: 2.4820870875527887e-13
             unit: MeV-1 s-1 cm-2
-            error: 1.4669544557753204e-13
+            error: 1.4270676830088458e-13
             min: 0.0
         -   name: reference
             value: 2649.357666015625
@@ -92,15 +151,43 @@ components:
             value: -40.384700775146484
             unit: deg
             frozen: true
+-   name: 4FGL J1708.3-4127c
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.0069515705108643
+            frozen: true
+        -   name: amplitude
+            value: 3.591841322512583e-15
+            unit: MeV-1 s-1 cm-2
+            error: 1.4112070382029416e-15
+            min: 0.0
+        -   name: reference
+            value: 9819.5322265625
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 257.0909118652344
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.46049880981445
+            unit: deg
+            frozen: true
 -   name: 4FGL J1710.3-3943
     type: SkyModel
     spectral:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.308946419219444e-12
+            value: 1.9810511589547517e-12
             unit: MeV-1 s-1 cm-2
-            error: 1.247970330296836e-12
+            error: 1.2029321788357468e-12
             min: 0.0
         -   name: reference
             value: 1575.8935546875
@@ -129,9 +216,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.999169662161681e-15
+            value: 2.8130884280022322e-15
             unit: MeV-1 s-1 cm-2
-            error: 8.920191738081106e-16
+            error: 8.621284541185949e-16
             min: 0.0
         -   name: reference
             value: 13844.94140625
@@ -163,9 +250,9 @@ components:
             value: 1.7772023677825928
             frozen: true
         -   name: amplitude
-            value: 7.991780473826097e-16
+            value: 7.802603208767036e-16
             unit: MeV-1 s-1 cm-2
-            error: 2.5160028829602424e-16
+            error: 2.4789266756972533e-16
             min: 0.0
         -   name: reference
             value: 21178.046875
@@ -188,9 +275,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 9.261905596627083e-14
+            value: 9.184813248253054e-14
             unit: MeV-1 s-1 cm-2
-            error: 4.179397803074057e-15
+            error: 4.174435379009095e-15
             min: 0.0
         -   name: reference
             value: 10283.689453125
@@ -223,9 +310,9 @@ components:
             value: 2.00353741645813
             frozen: true
         -   name: amplitude
-            value: 1.6697438090846634e-14
+            value: 1.668617564493064e-14
             unit: MeV-1 s-1 cm-2
-            error: 2.36292584492594e-15
+            error: 2.3732685629497863e-15
             min: 0.0
         -   name: reference
             value: 10028.1259765625
@@ -248,9 +335,9 @@ components:
         type: SuperExpCutoffPowerLaw4FGLDR3SpectralModel
         parameters:
         -   name: amplitude
-            value: 4.535017359304396e-13
+            value: 4.566131593647359e-13
             unit: MeV-1 s-1 cm-2
-            error: 5.591376326874576e-14
+            error: 5.590189427659265e-14
             min: 0.0
         -   name: reference
             value: 4386.12890625
@@ -282,9 +369,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.3573280170868564e-13
+            value: 2.169487193269268e-13
             unit: MeV-1 s-1 cm-2
-            error: 7.142825219670953e-14
+            error: 7.039912319029673e-14
             min: 0.0
         -   name: reference
             value: 3390.619140625
@@ -313,9 +400,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 3.6385906836247204e-13
+            value: 3.370525995804453e-13
             unit: MeV-1 s-1 cm-2
-            error: 1.6642912177986714e-13
+            error: 1.6017072101607987e-13
             min: 0.0
         -   name: reference
             value: 3127.25439453125
@@ -344,9 +431,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 6.785919276048008e-14
+            value: 6.218481481482291e-14
             unit: MeV-1 s-1 cm-2
-            error: 1.8055784671599145e-14
+            error: 1.759367972666434e-14
             min: 0.0
         -   name: reference
             value: 3847.50732421875
@@ -378,9 +465,9 @@ components:
             value: 2.3350014686584473
             frozen: true
         -   name: amplitude
-            value: 2.950278479513353e-16
+            value: 4.681325185604072e-15
             unit: MeV-1 s-1 cm-2
-            error: 1.6373164693211806e-14
+            error: 1.4752606931576907e-14
             min: 0.0
         -   name: reference
             value: 3094.868896484375
@@ -403,9 +490,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.986720143942988e-14
+            value: 1.6043702956743774e-14
             unit: MeV-1 s-1 cm-2
-            error: 3.830872568587849e-14
+            error: 3.378527383843257e-14
             min: 0.0
         -   name: reference
             value: 2986.6015625
@@ -434,9 +521,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 9.594022659494212e-20
+            value: 3.746334299941463e-20
             unit: MeV-1 s-1 cm-2
-            error: 1.0533110416552159e-16
+            error: 5.796861956266919e-17
             min: 0.0
         -   name: reference
             value: 2814.0654296875
@@ -465,9 +552,9 @@ components:
         type: SuperExpCutoffPowerLaw4FGLDR3SpectralModel
         parameters:
         -   name: amplitude
-            value: 3.851417383912791e-12
+            value: 3.702713115301941e-12
             unit: MeV-1 s-1 cm-2
-            error: 1.2207181287243749e-12
+            error: 1.1953749464735867e-12
             min: 0.0
         -   name: reference
             value: 1880.802978515625
@@ -499,9 +586,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 3.696755900262818e-14
+            value: 2.979295929359259e-14
             unit: MeV-1 s-1 cm-2
-            error: 8.198094842239884e-14
+            error: 7.92468568300348e-14
             min: 0.0
         -   name: reference
             value: 2253.748291015625
@@ -533,9 +620,9 @@ components:
             value: 2.170267105102539
             frozen: true
         -   name: amplitude
-            value: 5.87480097066626e-15
+            value: 5.374098949113456e-15
             unit: MeV-1 s-1 cm-2
-            error: 4.400403446238933e-15
+            error: 4.216032584900741e-15
             min: 0.0
         -   name: reference
             value: 5005.02490234375
@@ -561,9 +648,9 @@ components:
             value: 2.4223413467407227
             frozen: true
         -   name: amplitude
-            value: 1.604668079602049e-14
+            value: 1.067796139879732e-14
             unit: MeV-1 s-1 cm-2
-            error: 1.6348260645120343e-14
+            error: 1.5352356747664305e-14
             min: 0.0
         -   name: reference
             value: 3827.934814453125
@@ -586,9 +673,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 3.0069066184267585e-14
+            value: 5.5016602634565915e-18
             unit: MeV-1 s-1 cm-2
-            error: 1.3358924747687786e-13
+            error: 3.562027073804531e-15
             min: 0.0
         -   name: reference
             value: 2143.265380859375
@@ -617,9 +704,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 1.5576549698694769e-19
+            value: 2.7817854430864244e-19
             unit: MeV-1 s-1 cm-2
-            error: 2.2190838283500032e-16
+            error: 2.908410562491935e-16
             min: 0.0
         -   name: reference
             value: 2236.507568359375
@@ -648,9 +735,9 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.065141757945973e-20
+            value: 3.009660592101027e-18
             unit: MeV-1 s-1 cm-2
-            error: 2.3566251631657375e-16
+            error: 2.7897807092167073e-15
             min: 0.0
         -   name: reference
             value: 1562.7984619140625
@@ -691,10 +778,10 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 347.5
+            value: 347.3
             unit: deg
         -   name: lat_0
-            value: -0.5099999999999909
+            value: -0.5
             unit: deg
         filename: ./datasets/rxj/models/sources_outside.fits.gz
         normalize: false
@@ -820,8 +907,8 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 27.3973382655859
-                error: 2.4362301817030554
+                value: 27.815106288878198
+                error: 2.4989554088321952
                 min: 0.0
             -   name: reference
                 value: 1.0
@@ -838,8 +925,8 @@ components:
         -   name: tilt
             value: 0.0
         -   name: norm
-            value: 1.2638473846191618
-            error: 0.03880548080548028
+            value: 1.2679324654710726
+            error: 0.03910427535094652
             min: 0.0
         -   name: reference
             value: 1.0
@@ -978,8 +1065,8 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 29.911285973553046
-                error: 2.8075298517477756
+                value: 31.825198649302262
+                error: 2.886533164215577
                 min: 0.0
             -   name: reference
                 value: 1.0
@@ -1109,8 +1196,8 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 25.63758009656864
-                error: 2.8316188644005504
+                value: 26.91543826471562
+                error: 2.8965300810791486
                 min: 0.0
             -   name: reference
                 value: 1.0
@@ -1240,8 +1327,8 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 30.400705174953607
-                error: 2.961070307167744
+                value: 32.3534926888515
+                error: 3.0532830474978936
                 min: 0.0
             -   name: reference
                 value: 1.0
@@ -1253,5 +1340,5 @@ components:
 covariance: fermi_lat_rxj_models_covariance.dat
 metadata:
     creator: Gammapy 2.0.dev3532+gd26bfaac6
-    date: '2026-10-29T19:55:11.333758'
+    date: '2026-10-31T10:16:31.585812'
     origin: null
