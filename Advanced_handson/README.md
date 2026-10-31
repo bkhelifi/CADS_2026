@@ -47,7 +47,8 @@ observation handling, IRFs, safe mask, exclusion masks, background fitting, diff
 
 ### Joint analysis
 TS and significance maps, fitting
-- Notebooks : xxx
+
+[Link to the notebook](3a_joint_analysis_ts_maps)
 
 <a name="sys"></a>
 ## Session of Wednesday, 14h00/15h45
@@ -91,7 +92,8 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
 - or *Source detection using pattern recognition techniques*, prepared by Quentin Remy (IRAP, Toulouse).
-  - Notebook : xxx 
+
+  [Link to the notebook](3b_joint_analysis_sources_detection.ipynb)
 
 <a name="timing"></a>
 ## Session of Thursday, 9h30/10h45
