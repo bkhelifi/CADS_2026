@@ -60,7 +60,7 @@ Made by Kirsty Feijen (APC, Paris) and Quentin Remy (IRAP, Toulouse). Location :
  
  Probes the stability of the fit with respect to observation-to-observation variability, including potential unknown systematic effects.
  
- [Link to the notebook](jackknife_observations.ipynb.ipynb)
+ [Link to the notebook](jackknife_observations.ipynb)
 
 
 ***Random FoV masking:***
@@ -97,7 +97,7 @@ Probes the stability of the fit with respect to inter-instrument energy-scale sy
 ## Session of Thursday, 9h30/10h45
 **Timing Analysis** : handling light curves. Made by Jean-Philippe Lenain (LPNHE, Paris). Location : room Danjon, Observatoire de Paris
 
-[Link to the notebook](./5.%20Timing%20analysis)
+[Link to the notebook](./5.%20Timing%20analysis/exercise.ipynb)
 
 <a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
