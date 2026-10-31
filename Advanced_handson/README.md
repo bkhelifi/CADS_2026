@@ -37,7 +37,7 @@ Made by Quentin Remy (IRAP, Toulouse). Location : room CIAS, Observatoire de Meu
 ***Fermi-LAT analysis*** :
 datasets creation, source catalog, diffuse emission
 
-[Link to the notebook](2a_fermi_lat_dataset_creation.ipynb)
+[Link to the notebook](2a_fermi_lat_analysis.ipynb)
 
 ***IACTs data reduction (H.E.S.S. example)*** :
 observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
